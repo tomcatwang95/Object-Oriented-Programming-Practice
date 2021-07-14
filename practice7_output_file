@@ -1,0 +1,2401 @@
+Part Worker ID: 0
+Iteration: 1
+Buffer State: ( 0, 0, 0, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 0, 0, 0, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 0
+Iteration: 1
+Buffer State: ( 0, 0, 0, 3 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 0, 0, 0, 1 )
+Updated Pickup Request: ( 1, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 1
+Iteration: 1
+Buffer State: ( 0, 0, 0, 1 )
+Place Request: ( 0, 3, 0, 1 )
+Updated Buffer State: ( 0, 3, 0, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 2
+Iteration: 1
+Buffer State: ( 0, 3, 0, 2 )
+Place Request: ( 0, 3, 0, 1 )
+Updated Buffer State: ( 0, 5, 0, 3 )
+Updated Place Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 2
+Iteration: 1
+Buffer State: ( 0, 5, 0, 3 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 0, 5, 0, 1 )
+Updated Pickup Request: ( 1, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 3
+Iteration: 1
+Buffer State: ( 0, 5, 0, 1 )
+Place Request: ( 0, 3, 0, 1 )
+Updated Buffer State: ( 0, 5, 0, 2 )
+Updated Place Request: ( 0, 3, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 3
+Iteration: 1
+Buffer State: ( 0, 5, 0, 2 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 1, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 4
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Place Request: ( 0, 3, 0, 1 )
+Updated Buffer State: ( 0, 5, 0, 1 )
+Updated Place Request: ( 0, 3, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 4
+Iteration: 1
+Buffer State: ( 0, 5, 0, 1 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 1, 0, 1, 2 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 5
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Place Request: ( 0, 3, 0, 1 )
+Updated Buffer State: ( 0, 5, 0, 1 )
+Updated Place Request: ( 0, 3, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 5
+Iteration: 1
+Buffer State: ( 0, 5, 0, 1 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 1, 0, 1, 2 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 6
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 1, 0, 1, 2 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 7
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 2, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 8
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Place Request: ( 3, 1, 0, 0 )
+Updated Buffer State: ( 3, 5, 0, 0 )
+Updated Place Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 8
+Iteration: 1
+Buffer State: ( 3, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 1, 5, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 9
+Iteration: 1
+Buffer State: ( 1, 5, 0, 0 )
+Place Request: ( 3, 1, 0, 0 )
+Updated Buffer State: ( 4, 5, 0, 0 )
+Updated Place Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 9
+Iteration: 1
+Buffer State: ( 4, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 2, 5, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 10
+Iteration: 1
+Buffer State: ( 2, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 11
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 2, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 12
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 2, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 13
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 2, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 14
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 2, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 15
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 2, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 16
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 2, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 17
+Iteration: 1
+Buffer State: ( 0, 5, 0, 0 )
+Place Request: ( 3, 1, 0, 0 )
+Updated Buffer State: ( 3, 5, 0, 0 )
+Updated Place Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 18
+Iteration: 1
+Buffer State: ( 3, 5, 0, 0 )
+Place Request: ( 3, 1, 0, 0 )
+Updated Buffer State: ( 5, 5, 0, 0 )
+Updated Place Request: ( 1, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 19
+Iteration: 1
+Buffer State: ( 5, 5, 0, 0 )
+Place Request: ( 3, 1, 0, 0 )
+Updated Buffer State: ( 5, 5, 0, 0 )
+Updated Place Request: ( 3, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 19
+Iteration: 1
+Buffer State: ( 5, 5, 0, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 3, 5, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 1
+Iteration: 1
+Buffer State: ( 3, 5, 0, 0 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 2, 5, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 2 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 1
+Iteration: 2
+Buffer State: ( 2, 5, 0, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 2, 5, 0, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 6
+Iteration: 1
+Buffer State: ( 2, 5, 0, 3 )
+Place Request: ( 1, 3, 0, 0 )
+Updated Buffer State: ( 3, 5, 0, 3 )
+Updated Place Request: ( 0, 3, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 7
+Iteration: 1
+Buffer State: ( 3, 5, 0, 3 )
+Place Request: ( 1, 3, 0, 0 )
+Updated Buffer State: ( 4, 5, 0, 3 )
+Updated Place Request: ( 0, 3, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 5
+Iteration: 2
+Buffer State: ( 4, 5, 0, 3 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 2, 4, 0, 2 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 6
+Iteration: 2
+Buffer State: ( 2, 4, 0, 2 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 0, 3, 0, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 10
+Iteration: 1
+Buffer State: ( 0, 3, 0, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 4, 3, 0, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 11
+Iteration: 1
+Buffer State: ( 4, 3, 0, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 0, 1 )
+Updated Place Request: ( 3, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 12
+Iteration: 1
+Buffer State: ( 5, 3, 0, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 0, 1 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 14
+Iteration: 1
+Buffer State: ( 5, 3, 0, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 0, 1 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 15
+Iteration: 1
+Buffer State: ( 5, 3, 0, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 0, 1 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 16
+Iteration: 1
+Buffer State: ( 5, 3, 0, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 0, 1 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 9
+Iteration: 2
+Buffer State: ( 5, 3, 0, 1 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 4, 3, 0, 0 )
+Updated Pickup Request: ( 0, 0, 2, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 10
+Iteration: 2
+Buffer State: ( 4, 3, 0, 0 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 3, 3, 0, 0 )
+Updated Pickup Request: ( 0, 0, 2, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 18
+Iteration: 1
+Buffer State: ( 3, 3, 0, 0 )
+Pickup Request: ( 1, 1, 0, 2 )
+Updated Buffer State: ( 2, 2, 0, 0 )
+Updated Pickup Request: ( 0, 0, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 11
+Iteration: 2
+Buffer State: ( 2, 2, 0, 0 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 1, 2, 0, 0 )
+Updated Pickup Request: ( 0, 0, 2, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 17
+Iteration: 2
+Buffer State: ( 1, 2, 0, 0 )
+Place Request: ( 1, 0, 3, 0 )
+Updated Buffer State: ( 2, 2, 3, 0 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 18
+Iteration: 2
+Buffer State: ( 2, 2, 3, 0 )
+Place Request: ( 1, 0, 3, 0 )
+Updated Buffer State: ( 3, 2, 4, 0 )
+Updated Place Request: ( 0, 0, 2, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 12
+Iteration: 2
+Buffer State: ( 3, 2, 4, 0 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 2, 2, 2, 0 )
+Updated Pickup Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 13
+Iteration: 2
+Buffer State: ( 2, 2, 2, 0 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 1, 2, 0, 0 )
+Updated Pickup Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 14
+Iteration: 2
+Buffer State: ( 1, 2, 0, 0 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 0, 2, 0, 0 )
+Updated Pickup Request: ( 0, 0, 2, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 1
+Iteration: 3
+Buffer State: ( 0, 2, 0, 0 )
+Place Request: ( 0, 0, 3, 1 )
+Updated Buffer State: ( 0, 2, 3, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 3
+Iteration: 2
+Buffer State: ( 0, 2, 3, 1 )
+Place Request: ( 1, 3, 0, 0 )
+Updated Buffer State: ( 1, 5, 3, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 15
+Iteration: 2
+Buffer State: ( 1, 5, 3, 1 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 0, 5, 1, 0 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 19
+Iteration: 2
+Buffer State: ( 0, 5, 1, 0 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Pickup Request: ( 1, 0, 2, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 0
+Iteration: 2
+Buffer State: ( 0, 5, 0, 0 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 0, 4, 0, 0 )
+Updated Pickup Request: ( 2, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 1
+Iteration: 2
+Buffer State: ( 0, 4, 0, 0 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 0, 3, 0, 0 )
+Updated Pickup Request: ( 2, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 3
+Iteration: 2
+Buffer State: ( 0, 3, 0, 0 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 0, 2, 0, 0 )
+Updated Pickup Request: ( 2, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 4
+Iteration: 2
+Buffer State: ( 0, 2, 0, 0 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 0, 1, 0, 0 )
+Updated Pickup Request: ( 2, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 4
+Iteration: 2
+Buffer State: ( 0, 1, 0, 0 )
+Place Request: ( 1, 3, 0, 0 )
+Updated Buffer State: ( 1, 4, 0, 0 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 5
+Iteration: 2
+Buffer State: ( 1, 4, 0, 0 )
+Place Request: ( 1, 3, 0, 0 )
+Updated Buffer State: ( 2, 5, 0, 0 )
+Updated Place Request: ( 0, 2, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 7
+Iteration: 2
+Buffer State: ( 2, 5, 0, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 2, 5, 0, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 8
+Iteration: 2
+Buffer State: ( 2, 5, 0, 3 )
+Place Request: ( 1, 0, 3, 0 )
+Updated Buffer State: ( 3, 5, 3, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 8
+Iteration: 2
+Buffer State: ( 3, 5, 3, 3 )
+Pickup Request: ( 1, 1, 2, 0 )
+Updated Buffer State: ( 2, 4, 1, 3 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 9
+Iteration: 3
+Buffer State: ( 2, 4, 1, 3 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 2, 3, 0, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 9
+Iteration: 2
+Buffer State: ( 2, 3, 0, 1 )
+Place Request: ( 1, 0, 3, 0 )
+Updated Buffer State: ( 3, 3, 3, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 12
+Iteration: 2
+Buffer State: ( 3, 3, 3, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 3, 1 )
+Updated Place Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 16
+Iteration: 2
+Buffer State: ( 5, 3, 3, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 3, 1 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 11
+Iteration: 3
+Buffer State: ( 5, 3, 3, 1 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 5, 2, 2, 0 )
+Updated Pickup Request: ( 0, 0, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 2
+Iteration: 2
+Buffer State: ( 5, 2, 2, 0 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 3, 1, 2, 0 )
+Updated Pickup Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 0
+Iteration: 2
+Buffer State: ( 3, 1, 2, 0 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 3, 5, 2, 0 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 18
+Iteration: 3
+Buffer State: ( 3, 5, 2, 0 )
+Place Request: ( 0, 3, 0, 1 )
+Updated Buffer State: ( 3, 5, 2, 1 )
+Updated Place Request: ( 0, 3, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 10
+Iteration: 2
+Buffer State: ( 3, 5, 2, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 5, 2, 1 )
+Updated Place Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 13
+Iteration: 1
+Buffer State: ( 5, 5, 2, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 5, 2, 1 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Product Worker ID: 13
+Iteration: 3
+Buffer State: ( 5, 5, 2, 1 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 5, 4, 1, 0 )
+Updated Pickup Request: ( 0, 0, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 7
+Iteration: 2
+Buffer State: ( 5, 4, 1, 0 )
+Pickup Request: ( 1, 1, 2, 0 )
+Updated Buffer State: ( 4, 3, 0, 0 )
+Updated Pickup Request: ( 0, 0, 2, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 5
+Iteration: 3
+Buffer State: ( 4, 3, 0, 0 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 2, 2, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 6
+Iteration: 3
+Buffer State: ( 2, 2, 0, 0 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 0, 1, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 4
+Iteration: 3
+Buffer State: ( 0, 1, 0, 0 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 0, 3, 0, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 5
+Iteration: 3
+Buffer State: ( 0, 3, 0, 2 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 0, 5, 0, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 19
+Iteration: 3
+Buffer State: ( 0, 5, 0, 3 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 0, 4, 0, 1 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 0
+Iteration: 3
+Buffer State: ( 0, 4, 0, 1 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 0, 3, 0, 1 )
+Updated Pickup Request: ( 2, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 1
+Iteration: 3
+Buffer State: ( 0, 3, 0, 1 )
+Pickup Request: ( 1, 2, 1, 0 )
+Updated Buffer State: ( 0, 1, 0, 1 )
+Updated Pickup Request: ( 1, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 7
+Iteration: 3
+Buffer State: ( 0, 1, 0, 1 )
+Place Request: ( 0, 0, 4, 0 )
+Updated Buffer State: ( 0, 1, 4, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 19
+Iteration: 2
+Buffer State: ( 0, 1, 4, 1 )
+Place Request: ( 1, 0, 3, 0 )
+Updated Buffer State: ( 1, 1, 4, 1 )
+Updated Place Request: ( 0, 0, 3, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 3
+Iteration: 3
+Buffer State: ( 1, 1, 4, 1 )
+Pickup Request: ( 1, 2, 1, 0 )
+Updated Buffer State: ( 0, 0, 3, 1 )
+Updated Pickup Request: ( 0, 2, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 4
+Iteration: 3
+Buffer State: ( 0, 0, 3, 1 )
+Pickup Request: ( 1, 2, 1, 0 )
+Updated Buffer State: ( 0, 0, 2, 1 )
+Updated Pickup Request: ( 1, 2, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 12
+Iteration: 3
+Buffer State: ( 0, 0, 2, 1 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 0, 0, 1, 0 )
+Updated Pickup Request: ( 0, 1, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 14
+Iteration: 3
+Buffer State: ( 0, 0, 1, 0 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 0, 0, 0, 0 )
+Updated Pickup Request: ( 0, 1, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 17
+Iteration: 3
+Buffer State: ( 0, 0, 0, 0 )
+Place Request: ( 0, 3, 0, 1 )
+Updated Buffer State: ( 0, 3, 0, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 17
+Iteration: 1
+Buffer State: ( 0, 3, 0, 1 )
+Pickup Request: ( 1, 1, 0, 2 )
+Updated Buffer State: ( 0, 2, 0, 0 )
+Updated Pickup Request: ( 1, 0, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 1
+
+
+Part Worker ID: 2
+Iteration: 2
+Buffer State: ( 0, 2, 0, 0 )
+Place Request: ( 1, 3, 0, 0 )
+Updated Buffer State: ( 1, 5, 0, 0 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 6
+Iteration: 2
+Buffer State: ( 1, 5, 0, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 1, 5, 0, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 1
+Iteration: 4
+Buffer State: ( 1, 5, 0, 3 )
+Place Request: ( 0, 1, 3, 0 )
+Updated Buffer State: ( 1, 5, 3, 3 )
+Updated Place Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 2
+Iteration: 3
+Buffer State: ( 1, 5, 3, 3 )
+Pickup Request: ( 1, 2, 1, 0 )
+Updated Buffer State: ( 0, 3, 2, 3 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 15
+Iteration: 3
+Buffer State: ( 0, 3, 2, 3 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 0, 2, 1, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 11
+Iteration: 2
+Buffer State: ( 0, 2, 1, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 4, 2, 1, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 14
+Iteration: 2
+Buffer State: ( 4, 2, 1, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 2, 1, 1 )
+Updated Place Request: ( 3, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 15
+Iteration: 2
+Buffer State: ( 5, 2, 1, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 2, 1, 1 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 16
+Iteration: 2
+Buffer State: ( 5, 2, 1, 1 )
+Pickup Request: ( 1, 1, 2, 0 )
+Updated Buffer State: ( 4, 1, 0, 1 )
+Updated Pickup Request: ( 0, 0, 2, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 13
+Iteration: 4
+Buffer State: ( 4, 1, 0, 1 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 4, 0, 0, 0 )
+Updated Pickup Request: ( 0, 2, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 8
+Iteration: 3
+Buffer State: ( 4, 0, 0, 0 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 0, 0, 0 )
+Updated Place Request: ( 3, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 4
+Iteration: 4
+Buffer State: ( 5, 0, 0, 0 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 5, 4, 0, 0 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 5
+Iteration: 4
+Buffer State: ( 5, 4, 0, 0 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 5, 5, 0, 0 )
+Updated Place Request: ( 0, 3, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 7
+Iteration: 4
+Buffer State: ( 5, 5, 0, 0 )
+Place Request: ( 0, 0, 2, 2 )
+Updated Buffer State: ( 5, 5, 2, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 10
+Iteration: 3
+Buffer State: ( 5, 5, 2, 2 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 5, 4, 1, 0 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 19
+Iteration: 3
+Buffer State: ( 5, 4, 1, 0 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 4, 1, 0 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 18
+Iteration: 2
+Buffer State: ( 5, 4, 1, 0 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 5, 3, 0, 0 )
+Updated Pickup Request: ( 0, 0, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Product Worker ID: 19
+Iteration: 4
+Buffer State: ( 5, 3, 0, 0 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 5, 2, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 2 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 0
+Iteration: 4
+Buffer State: ( 5, 2, 0, 0 )
+Pickup Request: ( 1, 1, 2, 0 )
+Updated Buffer State: ( 4, 1, 0, 0 )
+Updated Pickup Request: ( 0, 0, 2, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 0
+Iteration: 3
+Buffer State: ( 4, 1, 0, 0 )
+Place Request: ( 0, 0, 4, 0 )
+Updated Buffer State: ( 4, 1, 4, 0 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 10
+Iteration: 3
+Buffer State: ( 4, 1, 4, 0 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 4, 3, 4, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 1
+Iteration: 4
+Buffer State: ( 4, 3, 4, 2 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 4, 1, 3, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 4
+Iteration: 4
+Buffer State: ( 4, 1, 3, 1 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 4, 0, 2, 0 )
+Updated Pickup Request: ( 0, 2, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 5
+Iteration: 4
+Buffer State: ( 4, 0, 2, 0 )
+Pickup Request: ( 1, 1, 2, 0 )
+Updated Buffer State: ( 3, 0, 0, 0 )
+Updated Pickup Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 13
+Iteration: 2
+Buffer State: ( 3, 0, 0, 0 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 0, 0, 0 )
+Updated Place Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 2
+Iteration: 3
+Buffer State: ( 5, 0, 0, 0 )
+Place Request: ( 0, 1, 0, 3 )
+Updated Buffer State: ( 5, 1, 0, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 6
+Iteration: 4
+Buffer State: ( 5, 1, 0, 3 )
+Pickup Request: ( 1, 1, 2, 0 )
+Updated Buffer State: ( 4, 0, 0, 3 )
+Updated Pickup Request: ( 0, 0, 2, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 8
+Iteration: 3
+Buffer State: ( 4, 0, 0, 3 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 2, 0, 0, 3 )
+Updated Pickup Request: ( 0, 1, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 9
+Iteration: 4
+Buffer State: ( 2, 0, 0, 3 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 2, 0, 0, 1 )
+Updated Pickup Request: ( 0, 1, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 11
+Iteration: 4
+Buffer State: ( 2, 0, 0, 1 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 2, 0, 0, 0 )
+Updated Pickup Request: ( 0, 1, 1, 2 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 9
+Iteration: 3
+Buffer State: ( 2, 0, 0, 0 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 0, 0, 0 )
+Updated Place Request: ( 1, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 13
+Iteration: 5
+Buffer State: ( 5, 0, 0, 0 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 5, 0, 0, 0 )
+Updated Pickup Request: ( 0, 2, 1, 1 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 12
+Iteration: 3
+Buffer State: ( 5, 0, 0, 0 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 5, 2, 0, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 15
+Iteration: 3
+Buffer State: ( 5, 2, 0, 2 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 5, 4, 0, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 18
+Iteration: 4
+Buffer State: ( 5, 4, 0, 3 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 5, 5, 0, 3 )
+Updated Place Request: ( 0, 3, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 3
+Iteration: 4
+Buffer State: ( 5, 5, 0, 3 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 5, 3, 0, 2 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 14
+Iteration: 4
+Buffer State: ( 5, 3, 0, 2 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 5, 2, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 5
+Iteration: 5
+Buffer State: ( 5, 2, 0, 0 )
+Place Request: ( 0, 1, 3, 0 )
+Updated Buffer State: ( 5, 3, 3, 0 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 6
+Iteration: 3
+Buffer State: ( 5, 3, 3, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 5, 3, 3, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 1
+Iteration: 5
+Buffer State: ( 5, 3, 3, 3 )
+Place Request: ( 0, 3, 0, 1 )
+Updated Buffer State: ( 5, 5, 3, 3 )
+Updated Place Request: ( 0, 1, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 10
+Iteration: 4
+Buffer State: ( 5, 5, 3, 3 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 5, 4, 2, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 17
+Iteration: 2
+Buffer State: ( 5, 4, 2, 1 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 4, 4, 1, 0 )
+Updated Pickup Request: ( 0, 0, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 2
+
+
+Part Worker ID: 11
+Iteration: 3
+Buffer State: ( 4, 4, 1, 0 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 4, 5, 1, 2 )
+Updated Place Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 14
+Iteration: 3
+Buffer State: ( 4, 5, 1, 2 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 4, 5, 1, 3 )
+Updated Place Request: ( 0, 2, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 16
+Iteration: 3
+Buffer State: ( 4, 5, 1, 3 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 4, 5, 1, 3 )
+Updated Place Request: ( 0, 2, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 3
+Iteration: 3
+Buffer State: ( 4, 5, 1, 3 )
+Place Request: ( 0, 1, 0, 3 )
+Updated Buffer State: ( 4, 5, 1, 3 )
+Updated Place Request: ( 0, 1, 0, 3 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 7
+Iteration: 3
+Buffer State: ( 4, 5, 1, 3 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 2, 4, 0, 3 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 7
+Iteration: 5
+Buffer State: ( 2, 4, 0, 3 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 2, 5, 0, 3 )
+Updated Place Request: ( 0, 1, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 2
+Iteration: 4
+Buffer State: ( 2, 5, 0, 3 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 2, 3, 0, 2 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 15
+Iteration: 4
+Buffer State: ( 2, 3, 0, 2 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 2, 2, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 16
+Iteration: 3
+Buffer State: ( 2, 2, 0, 0 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 0, 1, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 17
+Iteration: 4
+Buffer State: ( 0, 1, 0, 0 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 0, 5, 0, 0 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 15
+Iteration: 4
+Buffer State: ( 0, 5, 0, 0 )
+Place Request: ( 0, 0, 2, 2 )
+Updated Buffer State: ( 0, 5, 2, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 6
+Iteration: 5
+Buffer State: ( 0, 5, 2, 2 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 5, 1, 1 )
+Updated Pickup Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 8
+Iteration: 4
+Buffer State: ( 0, 5, 1, 1 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 0, 4, 0, 1 )
+Updated Pickup Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 9
+Iteration: 5
+Buffer State: ( 0, 4, 0, 1 )
+Pickup Request: ( 1, 2, 1, 0 )
+Updated Buffer State: ( 0, 2, 0, 1 )
+Updated Pickup Request: ( 1, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 18
+Iteration: 5
+Buffer State: ( 0, 2, 0, 1 )
+Place Request: ( 0, 0, 4, 0 )
+Updated Buffer State: ( 0, 2, 4, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 0
+Iteration: 4
+Buffer State: ( 0, 2, 4, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 4, 2, 4, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 13
+Iteration: 6
+Buffer State: ( 4, 2, 4, 1 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 3, 2, 2, 0 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 18
+Iteration: 3
+Buffer State: ( 3, 2, 2, 0 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 1, 1, 1, 0 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 5
+Iteration: 5
+Buffer State: ( 1, 1, 1, 0 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 0, 0, 0, 0 )
+Updated Pickup Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 17
+Iteration: 3
+Buffer State: ( 0, 0, 0, 0 )
+Pickup Request: ( 1, 2, 0, 1 )
+Updated Buffer State: ( 0, 0, 0, 0 )
+Updated Pickup Request: ( 1, 2, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Part Worker ID: 10
+Iteration: 4
+Buffer State: ( 0, 0, 0, 0 )
+Place Request: ( 0, 0, 2, 2 )
+Updated Buffer State: ( 0, 0, 2, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 12
+Iteration: 4
+Buffer State: ( 0, 0, 2, 2 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 0, 0, 1, 0 )
+Updated Pickup Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 5
+Iteration: 6
+Buffer State: ( 0, 0, 1, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 0, 0, 1, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 6
+Iteration: 4
+Buffer State: ( 0, 0, 1, 3 )
+Place Request: ( 1, 3, 0, 0 )
+Updated Buffer State: ( 1, 3, 1, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 13
+Iteration: 3
+Buffer State: ( 1, 3, 1, 3 )
+Place Request: ( 0, 1, 3, 0 )
+Updated Buffer State: ( 1, 4, 4, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 3
+
+
+Product Worker ID: 2
+Iteration: 5
+Buffer State: ( 1, 4, 4, 3 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 0, 3, 4, 2 )
+Updated Pickup Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 15
+Iteration: 5
+Buffer State: ( 0, 3, 4, 2 )
+Pickup Request: ( 0, 1, 2, 1 )
+Updated Buffer State: ( 0, 2, 2, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 11
+Iteration: 4
+Buffer State: ( 0, 2, 2, 1 )
+Place Request: ( 0, 0, 2, 2 )
+Updated Buffer State: ( 0, 2, 4, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 14
+Iteration: 4
+Buffer State: ( 0, 2, 4, 3 )
+Place Request: ( 0, 0, 2, 2 )
+Updated Buffer State: ( 0, 2, 4, 3 )
+Updated Place Request: ( 0, 0, 2, 2 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 3
+Iteration: 4
+Buffer State: ( 0, 2, 4, 3 )
+Place Request: ( 0, 1, 0, 3 )
+Updated Buffer State: ( 0, 3, 4, 3 )
+Updated Place Request: ( 0, 0, 0, 3 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 0
+Iteration: 5
+Buffer State: ( 0, 3, 4, 3 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 0, 2, 3, 3 )
+Updated Pickup Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 1
+Iteration: 5
+Buffer State: ( 0, 2, 3, 3 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 0, 1, 3, 2 )
+Updated Pickup Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 9
+Iteration: 4
+Buffer State: ( 0, 1, 3, 2 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 0, 5, 3, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 17
+Iteration: 5
+Buffer State: ( 0, 5, 3, 2 )
+Place Request: ( 0, 0, 4, 0 )
+Updated Buffer State: ( 0, 5, 4, 2 )
+Updated Place Request: ( 0, 0, 3, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 15
+Iteration: 5
+Buffer State: ( 0, 5, 4, 2 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 0, 5, 4, 3 )
+Updated Place Request: ( 0, 0, 0, 3 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 8
+Iteration: 5
+Buffer State: ( 0, 5, 4, 3 )
+Pickup Request: ( 2, 1, 0, 1 )
+Updated Buffer State: ( 0, 4, 4, 2 )
+Updated Pickup Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 18
+Iteration: 6
+Buffer State: ( 0, 4, 4, 2 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 0, 5, 4, 2 )
+Updated Place Request: ( 0, 3, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 9
+Iteration: 6
+Buffer State: ( 0, 5, 4, 2 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 0, 3, 3, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 18
+Iteration: 4
+Buffer State: ( 0, 3, 3, 1 )
+Pickup Request: ( 1, 2, 0, 1 )
+Updated Buffer State: ( 0, 1, 3, 0 )
+Updated Pickup Request: ( 1, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 5
+Iteration: 6
+Buffer State: ( 0, 1, 3, 0 )
+Pickup Request: ( 1, 2, 0, 1 )
+Updated Buffer State: ( 0, 0, 3, 0 )
+Updated Pickup Request: ( 1, 2, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 0
+Iteration: 5
+Buffer State: ( 0, 0, 3, 0 )
+Place Request: ( 0, 2, 0, 2 )
+Updated Buffer State: ( 0, 2, 3, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 8
+Iteration: 4
+Buffer State: ( 0, 2, 3, 2 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 0, 5, 3, 2 )
+Updated Place Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 17
+Iteration: 4
+Buffer State: ( 0, 5, 3, 2 )
+Pickup Request: ( 1, 1, 0, 2 )
+Updated Buffer State: ( 0, 4, 3, 0 )
+Updated Pickup Request: ( 1, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 2
+Iteration: 6
+Buffer State: ( 0, 4, 3, 0 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 0, 4, 2, 0 )
+Updated Pickup Request: ( 2, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 15
+Iteration: 6
+Buffer State: ( 0, 4, 2, 0 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 0, 3, 1, 0 )
+Updated Pickup Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 10
+Iteration: 5
+Buffer State: ( 0, 3, 1, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 0, 3, 1, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 19
+Iteration: 4
+Buffer State: ( 0, 3, 1, 3 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 0, 5, 1, 3 )
+Updated Place Request: ( 0, 2, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 0
+Iteration: 6
+Buffer State: ( 0, 5, 1, 3 )
+Pickup Request: ( 1, 2, 0, 1 )
+Updated Buffer State: ( 0, 3, 1, 2 )
+Updated Pickup Request: ( 1, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 7
+Iteration: 6
+Buffer State: ( 0, 3, 1, 2 )
+Place Request: ( 3, 1, 0, 0 )
+Updated Buffer State: ( 3, 4, 1, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 1
+Iteration: 6
+Buffer State: ( 3, 4, 1, 2 )
+Pickup Request: ( 2, 0, 1, 1 )
+Updated Buffer State: ( 1, 4, 0, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 12
+Iteration: 4
+Buffer State: ( 1, 4, 0, 1 )
+Place Request: ( 0, 0, 2, 2 )
+Updated Buffer State: ( 1, 4, 2, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 8
+Iteration: 6
+Buffer State: ( 1, 4, 2, 3 )
+Pickup Request: ( 1, 1, 0, 2 )
+Updated Buffer State: ( 0, 3, 2, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 6
+Iteration: 5
+Buffer State: ( 0, 3, 2, 1 )
+Place Request: ( 0, 3, 1, 0 )
+Updated Buffer State: ( 0, 5, 3, 1 )
+Updated Place Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 13
+Iteration: 4
+Buffer State: ( 0, 5, 3, 1 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 0, 5, 3, 1 )
+Updated Place Request: ( 0, 4, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 11
+Iteration: 5
+Buffer State: ( 0, 5, 3, 1 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 0, 5, 3, 3 )
+Updated Place Request: ( 0, 0, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 12
+Iteration: 5
+Buffer State: ( 0, 5, 3, 3 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 0, 3, 2, 2 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 18
+Iteration: 5
+Buffer State: ( 0, 3, 2, 2 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 0, 3, 1, 0 )
+Updated Pickup Request: ( 1, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 14
+Iteration: 5
+Buffer State: ( 0, 3, 1, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 0, 3, 1, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 3
+Iteration: 5
+Buffer State: ( 0, 3, 1, 3 )
+Place Request: ( 0, 0, 4, 0 )
+Updated Buffer State: ( 0, 3, 4, 3 )
+Updated Place Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 16
+Iteration: 4
+Buffer State: ( 0, 3, 4, 3 )
+Pickup Request: ( 1, 1, 0, 2 )
+Updated Buffer State: ( 0, 2, 4, 1 )
+Updated Pickup Request: ( 1, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 17
+Iteration: 5
+Buffer State: ( 0, 2, 4, 1 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 0, 2, 3, 0 )
+Updated Pickup Request: ( 1, 0, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 4
+Iteration: 5
+Buffer State: ( 0, 2, 3, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 0, 2, 3, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 17
+Iteration: 6
+Buffer State: ( 0, 2, 3, 3 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 0, 5, 3, 3 )
+Updated Place Request: ( 0, 1, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 11
+Iteration: 5
+Buffer State: ( 0, 5, 3, 3 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 0, 4, 2, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 15
+Iteration: 6
+Buffer State: ( 0, 4, 2, 1 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 4, 4, 2, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 0
+Iteration: 6
+Buffer State: ( 4, 4, 2, 1 )
+Place Request: ( 0, 3, 1, 0 )
+Updated Buffer State: ( 4, 5, 3, 1 )
+Updated Place Request: ( 0, 2, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 8
+Iteration: 5
+Buffer State: ( 4, 5, 3, 1 )
+Place Request: ( 0, 0, 1, 3 )
+Updated Buffer State: ( 4, 5, 4, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 12
+Iteration: 6
+Buffer State: ( 4, 5, 4, 3 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 4, 3, 3, 2 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 18
+Iteration: 6
+Buffer State: ( 4, 3, 3, 2 )
+Pickup Request: ( 1, 0, 1, 2 )
+Updated Buffer State: ( 3, 3, 2, 0 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 9
+Iteration: 5
+Buffer State: ( 3, 3, 2, 0 )
+Place Request: ( 0, 0, 4, 0 )
+Updated Buffer State: ( 3, 3, 4, 0 )
+Updated Place Request: ( 0, 0, 2, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 10
+Iteration: 6
+Buffer State: ( 3, 3, 4, 0 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 4, 0 )
+Updated Place Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 6
+Iteration: 6
+Buffer State: ( 5, 3, 4, 0 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 3, 2, 3, 0 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 4
+Iteration: 5
+Buffer State: ( 3, 2, 3, 0 )
+Pickup Request: ( 0, 1, 2, 1 )
+Updated Buffer State: ( 3, 1, 1, 0 )
+Updated Pickup Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 19
+Iteration: 5
+Buffer State: ( 3, 1, 1, 0 )
+Place Request: ( 0, 0, 1, 3 )
+Updated Buffer State: ( 3, 1, 2, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 17
+Iteration: 6
+Buffer State: ( 3, 1, 2, 3 )
+Pickup Request: ( 1, 0, 2, 1 )
+Updated Buffer State: ( 2, 1, 0, 2 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 11
+Iteration: 6
+Buffer State: ( 2, 1, 0, 2 )
+Pickup Request: ( 1, 2, 1, 0 )
+Updated Buffer State: ( 1, 0, 0, 2 )
+Updated Pickup Request: ( 0, 2, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 19
+Iteration: 5
+Buffer State: ( 1, 0, 0, 2 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 1, 0, 0, 0 )
+Updated Pickup Request: ( 0, 1, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 16
+Iteration: 4
+Buffer State: ( 1, 0, 0, 0 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 1, 0, 0, 3 )
+Updated Place Request: ( 0, 0, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Product Worker ID: 3
+Iteration: 5
+Buffer State: ( 1, 0, 0, 3 )
+Pickup Request: ( 0, 1, 2, 1 )
+Updated Buffer State: ( 1, 0, 0, 2 )
+Updated Pickup Request: ( 0, 1, 2, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 1
+Iteration: 6
+Buffer State: ( 1, 0, 0, 2 )
+Place Request: ( 1, 3, 0, 0 )
+Updated Buffer State: ( 2, 3, 0, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 10
+Iteration: 5
+Buffer State: ( 2, 3, 0, 2 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 2, 2, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 3
+Iteration: 6
+Buffer State: ( 2, 2, 0, 0 )
+Place Request: ( 0, 3, 0, 1 )
+Updated Buffer State: ( 2, 5, 0, 1 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 16
+Iteration: 5
+Buffer State: ( 2, 5, 0, 1 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 0, 4, 0, 1 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 4
+Iteration: 6
+Buffer State: ( 0, 4, 0, 1 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 0, 3, 0, 0 )
+Updated Pickup Request: ( 0, 0, 1, 2 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 4
+Iteration: 6
+Buffer State: ( 0, 3, 0, 0 )
+Place Request: ( 2, 0, 0, 2 )
+Updated Buffer State: ( 2, 3, 0, 2 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 6
+Iteration: 6
+Buffer State: ( 2, 3, 0, 2 )
+Place Request: ( 0, 4, 0, 0 )
+Updated Buffer State: ( 2, 5, 0, 2 )
+Updated Place Request: ( 0, 2, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 11
+Iteration: 6
+Buffer State: ( 2, 5, 0, 2 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 5, 0, 2 )
+Updated Place Request: ( 1, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 19
+Iteration: 6
+Buffer State: ( 5, 5, 0, 2 )
+Pickup Request: ( 1, 2, 1, 0 )
+Updated Buffer State: ( 4, 3, 0, 2 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 12
+Iteration: 5
+Buffer State: ( 4, 3, 0, 2 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 0, 2 )
+Updated Place Request: ( 3, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 14
+Iteration: 6
+Buffer State: ( 5, 3, 0, 2 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 0, 2 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 13
+Iteration: 5
+Buffer State: ( 5, 3, 0, 2 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 3, 0, 2 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 9
+Iteration: 6
+Buffer State: ( 5, 3, 0, 2 )
+Place Request: ( 1, 0, 3, 0 )
+Updated Buffer State: ( 5, 3, 3, 2 )
+Updated Place Request: ( 1, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 2
+Iteration: 4
+Buffer State: ( 5, 3, 3, 2 )
+Place Request: ( 0, 0, 4, 0 )
+Updated Buffer State: ( 5, 3, 4, 2 )
+Updated Place Request: ( 0, 0, 3, 0 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 19
+Iteration: 6
+Buffer State: ( 5, 3, 4, 2 )
+Place Request: ( 0, 0, 1, 3 )
+Updated Buffer State: ( 5, 3, 4, 3 )
+Updated Place Request: ( 0, 0, 1, 2 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 14
+Iteration: 5
+Buffer State: ( 5, 3, 4, 3 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 5, 2, 3, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 3
+Iteration: 6
+Buffer State: ( 5, 2, 3, 1 )
+Pickup Request: ( 0, 1, 1, 2 )
+Updated Buffer State: ( 5, 1, 2, 0 )
+Updated Pickup Request: ( 0, 0, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 10
+Iteration: 6
+Buffer State: ( 5, 1, 2, 0 )
+Pickup Request: ( 1, 2, 1, 0 )
+Updated Buffer State: ( 4, 0, 1, 0 )
+Updated Pickup Request: ( 0, 2, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 16
+Iteration: 6
+Buffer State: ( 4, 0, 1, 0 )
+Pickup Request: ( 0, 2, 1, 1 )
+Updated Buffer State: ( 4, 0, 0, 0 )
+Updated Pickup Request: ( 0, 2, 0, 1 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 7
+Iteration: 4
+Buffer State: ( 4, 0, 0, 0 )
+Pickup Request: ( 1, 1, 0, 2 )
+Updated Buffer State: ( 3, 0, 0, 0 )
+Updated Pickup Request: ( 0, 1, 0, 2 )
+Deadlock Detected
+Aborted Iteration: 4
+
+
+Part Worker ID: 8
+Iteration: 6
+Buffer State: ( 3, 0, 0, 0 )
+Place Request: ( 0, 0, 1, 3 )
+Updated Buffer State: ( 3, 0, 1, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 12
+Iteration: 6
+Buffer State: ( 3, 0, 1, 3 )
+Place Request: ( 0, 0, 0, 4 )
+Updated Buffer State: ( 3, 0, 1, 3 )
+Updated Place Request: ( 0, 0, 0, 4 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 13
+Iteration: 6
+Buffer State: ( 3, 0, 1, 3 )
+Place Request: ( 2, 2, 0, 0 )
+Updated Buffer State: ( 5, 2, 1, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 2
+Iteration: 5
+Buffer State: ( 5, 2, 1, 3 )
+Place Request: ( 2, 2, 0, 0 )
+Updated Buffer State: ( 5, 4, 1, 3 )
+Updated Place Request: ( 2, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Part Worker ID: 16
+Iteration: 5
+Buffer State: ( 5, 4, 1, 3 )
+Place Request: ( 4, 0, 0, 0 )
+Updated Buffer State: ( 5, 4, 1, 3 )
+Updated Place Request: ( 4, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 7
+Iteration: 5
+Buffer State: ( 5, 4, 1, 3 )
+Pickup Request: ( 2, 1, 1, 0 )
+Updated Buffer State: ( 3, 3, 0, 3 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 5
+
+
+Product Worker ID: 14
+Iteration: 6
+Buffer State: ( 3, 3, 0, 3 )
+Pickup Request: ( 1, 2, 1, 0 )
+Updated Buffer State: ( 2, 1, 0, 3 )
+Updated Pickup Request: ( 0, 0, 1, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 16
+Iteration: 6
+Buffer State: ( 2, 1, 0, 3 )
+Place Request: ( 0, 0, 4, 0 )
+Updated Buffer State: ( 2, 1, 4, 3 )
+Updated Place Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Product Worker ID: 7
+Iteration: 6
+Buffer State: ( 2, 1, 4, 3 )
+Pickup Request: ( 1, 1, 0, 2 )
+Updated Buffer State: ( 1, 0, 4, 1 )
+Updated Pickup Request: ( 0, 0, 0, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Part Worker ID: 2
+Iteration: 6
+Buffer State: ( 1, 0, 4, 1 )
+Place Request: ( 0, 2, 2, 0 )
+Updated Buffer State: ( 1, 2, 4, 1 )
+Updated Place Request: ( 0, 0, 2, 0 )
+Deadlock Detected
+Aborted Iteration: 6
+
+
+Program Finish!
